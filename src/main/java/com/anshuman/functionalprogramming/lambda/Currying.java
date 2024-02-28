@@ -52,7 +52,7 @@ public class Currying {
 
         System.out.println(" \n### Example 3");
 
-        Function<Integer, Function<Integer, Function<Integer, Integer>>> superCurriedMultiply = a -> b -> c -> b * c;
+        Function<Integer, Function<Integer, Function<Integer, Integer>>> superCurriedMultiply = a -> b -> c -> a * b * c;
 
         System.out.println(superCurriedMultiply.apply(2).apply(3).apply(4));
 
