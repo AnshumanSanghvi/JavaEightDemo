@@ -13,8 +13,8 @@
 
 ## 3. Functional Programming Patterns
 
-- Expensive Resource: Use FP Pattern to protect resource and force "pre" and "post" resource usage behaviour.
 - Fluent Style: Use fluent style to call functions on an object, without requiring to initialize and manage the object.
+- Expensive Resource: Use FP Pattern to protect resource and force "pre" and "post" resource usage behaviour.
 
 ## 4. Advanced Lambdas
 
