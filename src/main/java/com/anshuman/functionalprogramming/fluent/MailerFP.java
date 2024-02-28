@@ -1,4 +1,4 @@
-package com.anshuman.functionalprogramming.mailer;
+package com.anshuman.functionalprogramming.fluent;
 
 import java.util.function.Consumer;
 
